@@ -1,0 +1,14 @@
+3007491 Pseudomonas aeruginosa ampR with mutation conferring resistance to aztreonam    protein variant model   single resistance variant       D135N   Paer_ampR_ATM   Curated-R       37070974
+3007491 Pseudomonas aeruginosa ampR with mutation conferring resistance to aztreonam    protein variant model   single resistance variant       D135G   Paer_ampR_ATM   Curated-R       37070974
+3003702 Pseudomonas aeruginosa gyrA and parC conferring resistance to fluoroquinolones  protein variant model   single resistance variant       S80L    Paer_ParC_FLO   Curated-R       22821356
+3003684 Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones   protein variant model   multiple resistance variants    T83I,D87H       Paer_gyrA_FLO   Curated-R       8540700
+3003684 Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones   protein variant model   multiple resistance variants    T83I,D87G       Paer_gyrA_FLO   Curated-R       8540700
+3003684 Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones   protein variant model   single resistance variant       D87N    Paer_gyrA_FLO   Curated-R       8540700
+3003684 Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones   protein variant model   single resistance variant       T83I    Paer_gyrA_FLO   Curated-R       22821356
+3003684 Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones   protein variant model   single resistance variant       H80R    Paer_gyrA_FLO   Curated-R       22821356
+3003684 Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones   protein variant model   multiple resistance variants    T83I,D87N       Paer_gyrA_FLO   Curated-R       8540700
+3003686 Pseudomonas aeruginosa oprD with mutation conferring resistance to imipenem     protein variant model   single resistance variant       Q142X   Paer_oprD_IPM   Curated-R       23045355
+3003685 Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones   protein variant model   single resistance variant       M437I   Paer_parE_FLO   Curated-R       23274661
+3003685 Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones   protein variant model   single resistance variant       A473V   Paer_parE_FLO   Curated-R       23274661
+
+

@@ -1,0 +1,461 @@
+sampleID	data	data_type	predicted_phenotype	CGE_predicted_phenotype	%identity	%overlap	HSP_Length/Total_Length	Contig	Start	End	Accession
+S11_contigs	ST- (paeruginosa)	MLST									
+S11_contigs	None	Plasmid									
+S11_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.26	100.0	807/807	contig00001	86707	87513	CP006832
+S11_contigs	blaOXA-50	Resistance	ampicillin	Amoxicillin, Ampicillin	99.75	100.0	789/789	contig00005	112236	113024	AY306130
+S11_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.58	100.0	1194/1194	contig00001	101049	99856	AY083592
+S11_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.9	100.0	639/639	contig00009	53854	53216	AF036933
+S11_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	94.95	100.0	198/198	contig00048	669	472	HM560971
+S11_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.48	100.0	198/198	contig00047	1960	1763	HM560971
+S11_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00011	161611	162018	ACWU01000146
+S18_contigs	ST253 (paeruginosa)	MLST									
+S18_contigs	Col(MG828)	Plasmid			93.51	100.0	262/262	contig00059	981	720	008486
+S18_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00037	1158	1288	KU674895
+S18_contigs	Col156	Plasmid			90.79	98.7	152/154	contig00034	1109	958	009781
+S18_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.13	100.0	807/807	contig00012	107482	108285	CP006832
+S18_contigs	blaCTX-M-15	Resistance	ampicillin, ceftriaxone	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	100.0	100.0	876/876	contig00036	2462	3337	AY044436
+S18_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	100.0	100.0	789/789	contig00010	99715	98927	CP017969
+S18_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00012	121834	120641	AY083592
+S18_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.28	100.0	639/639	contig00006	52467	51829	AF036933
+S18_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.48	100.0	198/198	contig00013	7727	7924	HM560971
+S18_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.51	100.0	408/408	contig00014	23416	23009	ACWU01000146
+S19_contigs	ST- (paeruginosa)	MLST									
+S19_contigs	Col(MG828)	Plasmid			93.51	100.0	262/262	contig00225	945	684	008486
+S19_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00120	2500	2370	KU674895
+S19_contigs	Col156	Plasmid			90.79	98.7	152/154	contig00100	5321	5170	009781
+S19_contigs	IncFIA(HI1)	Plasmid			97.16	100.0	388/388	contig00604	83	470	AF250878
+S19_contigs	IncFII(K)	Plasmid			98.65	100.0	148/148	contig00490	338	191	CP000648
+S19_contigs	IncR	Plasmid			99.6	100.0	251/251	contig00151	437	687	DQ449578
+S19_contigs	ARR-3	Resistance	rifampicin	Rifampicin	99.78	100.0	453/453	contig00250	809	1261	JF806499
+S19_contigs	aac(6')-Ib	Resistance	amikacin, gentamicin, kanamycin	Amikacin, Tobramycin	100.0	96.86	587/606	contig00164	125	711	M21682
+S19_contigs	aadA1	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	789/789	contig00164	781	1569	JQ480156
+S19_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.26	100.0	807/807	contig00035	26922	27728	CP006832
+S19_contigs	blaNDM-1	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone, meropenem	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ceftazidime+Avibactam, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	100.0	100.0	813/813	contig00112	3036	2224	FN396876
+S19_contigs	blaOXA-486	Resistance	ampicillin	Unknown Beta-lactam	99.49	100.0	789/789	contig00009	100311	99523	AY597426
+S19_contigs	blaOXA-534	Resistance	ampicillin	Unknown Beta-lactam	99.31	87.73	729/831	contig00374	729	1	KX714285
+S19_contigs	blaOXA-9	Resistance	ampicillin	Amoxicillin, Ampicillin	100.0	100.0	825/825	contig00164	1629	2453	KQ089875
+S19_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.58	100.0	1194/1194	contig00035	41264	40071	FJ666073
+S19_contigs	blaTEM-1A	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig00189	1143	2003	HM749966
+S19_contigs	catB3	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	633/633	contig00250	92	724	U13880
+S19_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	99.37	100.0	639/639	contig00056	5170	5808	AF036933
+S19_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.48	100.0	198/198	contig00104	1827	1630	HM560971
+S19_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.76	100.0	408/408	contig00026	57332	57739	ACWU01000146
+S19_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00242	1475	636	U12338
+S22_contigs	ST207 (paeruginosa)	MLST									
+S22_contigs	Col(MG828)	Plasmid			95.0	99.24	260/262	contig00209	357	98	008486
+S22_contigs	Col(MG828)	Plasmid			93.51	100.0	262/262	contig00103	344	83	008486
+S22_contigs	Col(pHAD28)	Plasmid			94.68	71.76	94/131	contig00044	4258	4165	KU674895
+S22_contigs	Col(pHAD28)	Plasmid			94.17	91.6	120/131	contig00044	128	9	KU674895
+S22_contigs	Col156	Plasmid			90.79	98.7	152/154	contig00038	4947	5098	009781
+S22_contigs	Col156	Plasmid			94.16	100.0	154/154	contig00041	1467	1620	009781
+S22_contigs	IncFIA(HI1)	Plasmid			97.16	100.0	388/388	contig00139	746	359	AF250878
+S22_contigs	IncFIB(pQil)	Plasmid			100.0	92.43	684/740	contig00055	2470	3153	JN233705
+S22_contigs	IncI1-I(Alpha)	Plasmid			100.0	100.0	142/142	contig00102	667	526	AP005147
+S22_contigs	IncP1	Plasmid			100.0	100.0	745/745	contig00101	759	15	KX377410
+S22_contigs	ARR-3	Resistance	rifampicin	Rifampicin	100.0	100.0	453/453	contig00037	3767	4219	JF806499
+S22_contigs	aac(6')-Ib-cr	Resistance	amikacin, tobramycin, ciprofloxacin I/R	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin	99.83	100.0	600/600	contig00037	1352	1951	DQ303918
+S22_contigs	aadA1	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	789/789	contig00081	309	1097	JQ480156
+S22_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.88	100.0	807/807	contig00018	24918	25724	CP006832
+S22_contigs	aph(3')-VI	Resistance	amikacin	Amikacin	100.0	100.0	780/780	contig00054	151	930	KC170992
+S22_contigs	blaNDM-1	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone, meropenem	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ceftazidime+Avibactam, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	100.0	91.51	744/813	contig00173	205	948	FN396876
+S22_contigs	blaOXA-1	Resistance	ampicillin	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	831/831	contig00037	2082	2912	HQ170510
+S22_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	100.0	100.0	789/789	contig00013	112724	113512	AY306133
+S22_contigs	blaOXA-9	Resistance	ampicillin	Amoxicillin, Ampicillin	100.0	100.0	825/825	contig00081	1157	1981	KQ089875
+S22_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.41	100.0	1194/1194	contig00018	39273	38080	AY083592
+S22_contigs	blaTEM-219	Resistance	ampicillin	Unknown Beta-lactam	99.88	100.0	861/861	contig00049	2614	3474	KM114268
+S22_contigs	catB3	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	633/633	contig00037	3050	3682	U13880
+S22_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.12	100.0	639/639	contig00005	53524	52886	AF036933
+S22_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	94.44	100.0	198/198	contig00009	3684	3881	HM560971
+S22_contigs	erm(42)	Resistance	erythromycin, azithromycin	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	99.89	100.0	912/912	contig00035	3	914	AB601890
+S22_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.26	100.0	408/408	contig00005	493812	494219	ACWU01000146
+S22_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00037	4783	5622	U12338
+S25_contigs	ST773 (paeruginosa)	MLST									
+S25_contigs	None	Plasmid									
+S25_contigs	aadA11	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	96.22	814/846	contig00024	2717	1904	AY144590
+S25_contigs	aph(3')-IIb	Resistance	kanamycin	Kanamycin, Neomycin, Paromomycin, Ribostamycin, Butiromycin, Gentamicin	99.88	100.0	807/807	contig00003	102377	103183	X90856
+S25_contigs	blaNDM-1	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone, meropenem	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ceftazidime+Avibactam, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	100.0	100.0	813/813	contig00067	208	1020	FN396876
+S25_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	99.87	100.0	789/789	contig00013	162068	162856	AY306133
+S25_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00003	116719	115526	AY083592
+S25_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.59	100.0	639/639	contig00026	27966	28604	AF036933
+S25_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.76	100.0	408/408	contig00004	153171	153578	ACWU01000146
+S25_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00024	4052	3396	EU436855
+S25_contigs	rmtB	Resistance	amikacin, gentamicin, kanamycin, streptomycin	Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin	99.07	100.0	756/756	contig00035	4821	5576	AB103506
+S25_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00082	871	32	U12338
+S25_contigs	tet(G)	Resistance	tetracycline	Doxycycline, Tetracycline	100.0	100.0	1176/1176	contig00039	2842	4017	AF133140
+S26_contigs	ST- (paeruginosa)	MLST									
+S26_contigs	None	Plasmid									
+S26_contigs	aadA11	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	96.22	814/846	contig00052	1146	333	AY144590
+S26_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.88	100.0	807/807	contig00015	29973	30779	CP006832
+S26_contigs	blaOXA-494	Resistance	ampicillin	Unknown Beta-lactam	99.62	100.0	789/789	contig00013	35971	35183	AY597430
+S26_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.83	100.0	1194/1194	contig00015	44328	43135	AY083595
+S26_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	639/639	contig00016	52931	52293	AF036933
+S26_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.99	100.0	198/198	contig00033	3623	3820	HM560971
+S26_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00002	268054	267647	ACWU01000146
+S26_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	99.85	100.0	657/657	contig00052	2481	1825	EU436855
+S26_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00062	1539	2378	U12338
+S27_contigs	ST- (paeruginosa)	MLST									
+S27_contigs	None	Plasmid									
+S27_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.38	100.0	807/807	contig00013	107507	106701	CP006832
+S27_contigs	blaOXA-494	Resistance	ampicillin	Unknown Beta-lactam	99.75	100.0	789/789	contig00001	112783	113571	AY597430
+S27_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.16	100.0	1194/1194	contig00013	93152	94345	FJ666073
+S27_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	97.81	100.0	639/639	contig00012	105421	106059	AF036933
+S27_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.99	100.0	198/198	contig00018	80652	80455	HM560971
+S27_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00005	249018	248611	ACWU01000146
+S32_contigs	ST773 (paeruginosa)	MLST									
+S32_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00054	1923	2053	KU674895
+S32_contigs	IncFIB(pNDM-Mar)	Plasmid			99.46	84.97	373/439	contig00067	1	373	JN420336
+S32_contigs	IncFII	Plasmid			100.0	100.0	261/261	contig00044	4451	4191	AY458016
+S32_contigs	aadA11	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	96.22	814/846	contig00037	904	91	AY144590
+S32_contigs	aadA5	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	789/789	contig00114	714	1502	AF137361
+S32_contigs	aph(3')-IIb	Resistance	kanamycin	Kanamycin, Neomycin, Paromomycin, Ribostamycin, Butiromycin, Gentamicin	99.88	100.0	807/807	contig00001	102377	103183	X90856
+S32_contigs	blaCTX-M-15	Resistance	ampicillin, ceftriaxone	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	100.0	100.0	876/876	contig00117	228	1103	AY044436
+S32_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	99.87	100.0	789/789	contig00012	109754	108966	AY306133
+S32_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00001	116719	115526	AY083592
+S32_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.59	100.0	639/639	contig00010	53110	52472	AF036933
+S32_contigs	dfrA17	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig00114	110	583	FJ460238
+S32_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.76	100.0	408/408	contig00003	153171	153578	ACWU01000146
+S32_contigs	qnrS1	Resistance	ciprofloxacin I/R	Ciprofloxacin	99.85	100.0	657/657	contig00050	3081	2425	AB187515
+S32_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00037	2239	1583	EU436855
+S32_contigs	rmtB	Resistance	amikacin, gentamicin, kanamycin, streptomycin	Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin	99.07	100.0	756/756	contig00042	4821	5576	AB103506
+S32_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00168	871	32	U12338
+S32_contigs	tet(G)	Resistance	tetracycline	Doxycycline, Tetracycline	100.0	100.0	1176/1176	contig00049	2425	1250	AF133140
+S33_contigs	ST480 (paeruginosa)	MLST									
+S33_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00031	2510	2380	KU674895
+S33_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.01	100.0	807/807	contig00012	107655	106849	CP006832
+S33_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	99.37	100.0	789/789	contig00005	360980	360192	AY306133
+S33_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.66	100.0	1194/1194	contig00012	93313	94506	FJ666073
+S33_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	99.53	100.0	639/639	contig00021	10591	11229	AF036933
+S33_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.99	100.0	198/198	contig00025	3623	3820	HM560971
+S33_contigs	fosA	Resistance	fosfomycin	Fosfomycin	98.78	100.0	408/408	contig00015	26325	25918	ACWU01000146
+S39_contigs	ST1047 (paeruginosa)	MLST									
+S39_contigs	IncFIB(AP001918)	Plasmid			98.39	100.0	682/682	contig00123	800	1481	AP001918
+S39_contigs	IncFII	Plasmid			96.56	100.38	262/261	contig00225	1988	1727	AY458016
+S39_contigs	IncI1-I(Alpha)	Plasmid			99.3	100.0	142/142	contig00117	1214	1355	AP005147
+S39_contigs	IncN	Plasmid			100.0	60.31	310/514	contig00922	1	310	AY046276
+S39_contigs	aac(6')-Ib3	Resistance	amikacin, tobramycin	Amikacin, Tobramycin	100.0	100.0	555/555	contig00002	526844	526290	X60321
+S39_contigs	ant(2'')-Ia	Resistance	gentamicin	Gentamicin, Tobramycin	100.0	100.0	534/534	contig00302	106	639	X04555
+S39_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00096	3725	4528	AF321551
+S39_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.13	100.0	807/807	contig00010	116286	117092	CP006832
+S39_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	contig00096	4528	5364	M28829
+S39_contigs	blaIMP-1b	Resistance	unknown[blaIMP-1b_1_MK388919]	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	741/741	contig00002	526213	525473	MK388919
+S39_contigs	blaOXA-10	Resistance	ampicillin	Amoxicillin, Ampicillin, Aztreonam, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	801/801	contig00002	527676	526876	J03427
+S39_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	100.0	100.0	789/789	contig00009	113158	113946	CP017969
+S39_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00010	130641	129448	FJ666073
+S39_contigs	blaTEM-1B	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig00054	6675	7535	AY458016
+S39_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.44	100.0	639/639	contig00026	32508	33146	AF036933
+S39_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.98	100.0	198/198	contig00006	11342	11145	HM560971
+S39_contigs	dfrA1	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig00302	708	1181	X00926
+S39_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.26	100.0	408/408	contig00013	160734	161141	ACWU01000146
+S39_contigs	mph(E)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	885/885	contig00012	6293	7177	DQ839391
+S39_contigs	mph(F)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	900/900	contig00012	2214	1315	AM260957
+S39_contigs	msr(E)	Resistance	erythromycin, azithromycin	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	100.0	100.0	1476/1476	contig00012	4762	6237	FR751518
+S39_contigs	qnrS1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00119	2972	2316	AB187515
+S39_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00246	618	1274	EU436855
+S39_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00726	871	32	U12338
+S39_contigs	sul2	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	816/816	contig00054	1852	1037	AY034138
+S39_contigs	tet(A)	Resistance	tetracycline	Doxycycline, Tetracycline	99.89	73.96	943/1275	contig00054	8389	9331	AF534183
+S3_contigs	ST1047 (paeruginosa)	MLST									
+S3_contigs	IncFII	Plasmid			96.56	100.38	262/261	contig00116	409	670	AY458016
+S3_contigs	IncI1-I(Alpha)	Plasmid			99.3	100.0	142/142	contig00075	953	812	AP005147
+S3_contigs	IncN	Plasmid			100.0	100.0	514/514	contig00043	14443	14956	AY046276
+S3_contigs	aac(6')-Ib3	Resistance	amikacin, tobramycin	Amikacin, Tobramycin	100.0	100.0	555/555	contig00002	1385	1939	X60321
+S3_contigs	ant(2'')-Ia	Resistance	gentamicin	Gentamicin, Tobramycin	100.0	100.0	534/534	contig00083	2164	1631	X04555
+S3_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00091	1746	943	AF321551
+S3_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.13	100.0	807/807	contig00012	116667	117473	CP006832
+S3_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	contig00091	943	107	M28829
+S3_contigs	blaIMP-1b	Resistance	unknown[blaIMP-1b_1_MK388919]	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	741/741	contig00002	2016	2756	MK388919
+S3_contigs	blaOXA-10	Resistance	ampicillin	Amoxicillin, Ampicillin, Aztreonam, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	801/801	contig00002	553	1353	J03427
+S3_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	100.0	100.0	789/789	contig00009	162504	163292	CP017969
+S3_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00012	131022	129829	FJ666073
+S3_contigs	blaTEM-1B	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig00040	6733	5873	AY458016
+S3_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.44	100.0	639/639	contig00027	32508	33146	AF036933
+S3_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.98	100.0	198/198	contig00044	11342	11145	HM560971
+S3_contigs	dfrA1	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig00083	1562	1089	X00926
+S3_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.26	100.0	408/408	contig00014	26522	26115	ACWU01000146
+S3_contigs	mph(E)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	885/885	contig00013	11095	11979	DQ839391
+S3_contigs	mph(F)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	900/900	contig00013	7016	6117	AM260957
+S3_contigs	msr(E)	Resistance	erythromycin, azithromycin	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	100.0	100.0	1476/1476	contig00013	9564	11039	FR751518
+S3_contigs	qnrS1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00040	12095	12751	AB187515
+S3_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00077	618	1274	EU436855
+S3_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00134	1057	218	U12338
+S3_contigs	sul2	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	816/816	contig00078	2461	1646	AY034138
+S3_contigs	tet(A)	Resistance	tetracycline	Doxycycline, Tetracycline	99.92	97.8	1247/1275	contig00040	5019	3773	AF534183
+S40_contigs	ST1047 (paeruginosa)	MLST									
+S40_contigs	None	Plasmid									
+S40_contigs	aac(6')-Ib3	Resistance	amikacin, tobramycin	Amikacin, Tobramycin	100.0	100.0	555/555	contig00002	527101	526547	X60321
+S40_contigs	ant(2'')-Ia	Resistance	gentamicin	Gentamicin, Tobramycin	100.0	100.0	534/534	contig00071	106	639	X04555
+S40_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00061	3725	4528	AF321551
+S40_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.13	100.0	807/807	contig00010	85065	84259	CP006832
+S40_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	contig00061	4528	5364	M28829
+S40_contigs	blaIMP-1b	Resistance	unknown[blaIMP-1b_1_MK388919]	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	741/741	contig00002	526470	525730	MK388919
+S40_contigs	blaOXA-10	Resistance	ampicillin	Amoxicillin, Ampicillin, Aztreonam, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	801/801	contig00002	527933	527133	J03427
+S40_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	100.0	100.0	789/789	contig00009	98450	97662	CP017969
+S40_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00010	70710	71903	FJ666073
+S40_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.44	100.0	639/639	contig00027	51811	51173	AF036933
+S40_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.98	100.0	198/198	contig00048	11342	11145	HM560971
+S40_contigs	dfrA1	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig00071	708	1181	X00926
+S40_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.26	100.0	408/408	contig00013	26522	26115	ACWU01000146
+S40_contigs	mph(E)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	885/885	contig00012	182968	182084	DQ839391
+S40_contigs	mph(F)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	900/900	contig00012	187047	187946	AM260957
+S40_contigs	msr(E)	Resistance	erythromycin, azithromycin	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	100.0	100.0	1476/1476	contig00012	184499	183024	FR751518
+S40_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00068	1967	1311	EU436855
+S40_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00094	871	32	U12338
+S41_contigs	ST235 (paeruginosa)	MLST									
+S41_contigs	None	Plasmid									
+S41_contigs	aadA1	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	792/792	contig00058	1798	2589	JQ414041
+S41_contigs	aadA6	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	846/846	contig00084	97	942	AF140629
+S41_contigs	ant(2'')-Ia	Resistance	gentamicin	Gentamicin, Tobramycin	100.0	100.0	534/534	contig00058	327	860	X04555
+S41_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00036	34375	33572	AF321551
+S41_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.76	100.0	807/807	contig00001	101465	102271	CP006832
+S41_contigs	aph(3')-VIa	Resistance	kanamycin	Kanamycin, Neomycin, Paromomycin, Ribostamycin, Butirosin, Gentamicin, Amikacin	98.46	100.0	780/780	contig00036	32331	31552	X07753
+S41_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	contig00036	33572	32736	M28829
+S41_contigs	blaIMP-1b	Resistance	unknown[blaIMP-1b_1_MK388919]	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	99.6	100.0	741/741	contig00058	925	1665	MK388919
+S41_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	99.87	100.0	789/789	contig00017	112586	113374	CP017969
+S41_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.25	100.0	1194/1194	contig00001	115820	114627	AY083592
+S41_contigs	blaTEM-1B	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig00066	860	1720	AY458016
+S41_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.75	100.0	639/639	contig00027	52412	51774	AF036933
+S41_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.48	100.0	198/198	contig00035	3129	3326	HM560971
+S41_contigs	dfrA1	Resistance	trimethoprim	Trimethoprim	99.79	100.0	474/474	contig00281	3	476	AJ238350
+S41_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00014	25879	25472	ACWU01000146
+S41_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00074	1152	313	U12338
+S45_contigs	ST- (paeruginosa)	MLST									
+S45_contigs	None	Plasmid									
+S45_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.88	100.0	807/807	contig00016	107636	106830	CP006832
+S45_contigs	blaOXA-494	Resistance	ampicillin	Unknown Beta-lactam	99.62	100.0	789/789	contig00010	99641	98853	AY597430
+S45_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.83	100.0	1194/1194	contig00016	93281	94474	AY083595
+S45_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	639/639	contig00013	53179	52541	AF036933
+S45_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00002	406244	405837	ACWU01000146
+S47_contigs	ST- (paeruginosa)	MLST									
+S47_contigs	None	Plasmid									
+S47_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.26	100.0	807/807	contig00001	126430	127236	CP006832
+S47_contigs	blaOXA-50	Resistance	ampicillin	Amoxicillin, Ampicillin	99.75	100.0	789/789	contig00005	112236	113024	AY306130
+S47_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.58	100.0	1194/1194	contig00001	140772	139579	AY083592
+S47_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.9	100.0	639/639	contig00010	53854	53216	AF036933
+S47_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	94.95	100.0	198/198	contig00058	669	472	HM560971
+S47_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.48	100.0	198/198	contig00044	1960	1763	HM560971
+S47_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00012	162016	162423	ACWU01000146
+S4_contigs	ST1047 (paeruginosa)	MLST									
+S4_contigs	None	Plasmid									
+S4_contigs	aac(6')-Ib3	Resistance	amikacin, tobramycin	Amikacin, Tobramycin	100.0	100.0	555/555	contig00002	1373	1927	X60321
+S4_contigs	ant(2'')-Ia	Resistance	gentamicin	Gentamicin, Tobramycin	100.0	100.0	534/534	contig00065	2152	1619	X04555
+S4_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00056	1746	943	AF321551
+S4_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.13	100.0	807/807	contig00012	116274	117080	CP006832
+S4_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	contig00056	943	107	M28829
+S4_contigs	blaIMP-1b	Resistance	unknown[blaIMP-1b_1_MK388919]	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	741/741	contig00002	2004	2744	MK388919
+S4_contigs	blaOXA-10	Resistance	ampicillin	Amoxicillin, Ampicillin, Aztreonam, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	801/801	contig00002	541	1341	J03427
+S4_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	100.0	100.0	789/789	contig00009	98438	97650	CP017969
+S4_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00012	130629	129436	FJ666073
+S4_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.44	100.0	639/639	contig00027	32496	33134	AF036933
+S4_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.98	100.0	198/198	contig00043	3419	3616	HM560971
+S4_contigs	dfrA1	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig00065	1550	1077	X00926
+S4_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.26	100.0	408/408	contig00014	160722	161129	ACWU01000146
+S4_contigs	mph(E)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	885/885	contig00013	182716	181832	DQ839391
+S4_contigs	mph(F)	Resistance	erythromycin, azithromycin	Erythromycin	100.0	100.0	900/900	contig00013	186795	187694	AM260957
+S4_contigs	msr(E)	Resistance	erythromycin, azithromycin	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	100.0	100.0	1476/1476	contig00013	184247	182772	FR751518
+S4_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00061	1955	1299	EU436855
+S4_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00082	871	32	U12338
+S54_contigs	ST253 (paeruginosa)	MLST									
+S54_contigs	Col(MG828)	Plasmid			93.51	100.0	262/262	contig00592	1277	1016	008486
+S54_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00096	3141	3011	KU674895
+S54_contigs	Col156	Plasmid			90.79	98.7	152/154	contig00055	2023	1872	009781
+S54_contigs	IncFIA(HI1)	Plasmid			97.16	100.0	388/388	contig00140	1856	1469	AF250878
+S54_contigs	IncFIB(pQil)	Plasmid			100.0	100.0	740/740	contig00103	3289	2550	JN233705
+S54_contigs	IncFII(pKP91)	Plasmid			93.45	73.04	168/230	contig00236	2464	2631	CP000966
+S54_contigs	ARR-3	Resistance	rifampicin	Rifampicin	99.78	100.0	453/453	contig00072	657	205	JF806499
+S54_contigs	OqxA	Resistance	unknown[OqxA_1_EU370913]	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	99.44	61.14	719/1176	contig00254	719	1	EU370913
+S54_contigs	aac(6')-Ib-cr	Resistance	amikacin, tobramycin, ciprofloxacin I/R	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin	100.0	100.0	600/600	contig00072	3072	2473	DQ303918
+S54_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.13	100.0	807/807	contig00011	103142	102339	CP006832
+S54_contigs	aph(3')-VI	Resistance	amikacin	Amikacin	100.0	100.0	780/780	contig00440	942	163	KC170992
+S54_contigs	blaCTX-M-82	Resistance	ampicillin, ceftriaxone	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	99.84	69.18	606/876	contig00194	1	606	DQ256091
+S54_contigs	blaNDM-2	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone, meropenem	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	100.0	71.71	583/813	contig02001	583	1	JF703135
+S54_contigs	blaOXA-1	Resistance	ampicillin	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	831/831	contig00072	2342	1512	HQ170510
+S54_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	100.0	100.0	789/789	contig00020	99703	98915	CP017969
+S54_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00011	88790	89983	AY083592
+S54_contigs	blaSHV-11	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	76.19	656/861	contig01520	141	796	X98101
+S54_contigs	catB3	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	633/633	contig00072	1374	742	U13880
+S54_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.28	100.0	639/639	contig00027	51791	51153	AF036933
+S54_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.48	100.0	198/198	contig00012	7715	7912	HM560971
+S54_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.51	100.0	408/408	contig00013	159681	160088	ACWU01000146
+S54_contigs	qnrS1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00219	2392	1736	AB187515
+S55_contigs	ST- (paeruginosa)	MLST									
+S55_contigs	Col(MG828)	Plasmid			93.51	100.0	262/262	contig00067	256	517	008486
+S55_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00041	1216	1086	KU674895
+S55_contigs	IncFIA(HI1)	Plasmid			97.16	100.0	388/388	contig00094	583	970	AF250878
+S55_contigs	IncFIB(pQil)	Plasmid			100.0	100.0	740/740	contig00055	1322	583	JN233705
+S55_contigs	IncFII(K)	Plasmid			98.65	100.0	148/148	contig00058	787	640	CP000648
+S55_contigs	ARR-3	Resistance	rifampicin	Rifampicin	100.0	100.0	453/453	contig00057	1479	1027	JF806499
+S55_contigs	aac(6')-Ib-cr	Resistance	amikacin, tobramycin, ciprofloxacin I/R	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin	100.0	97.83	587/600	contig00068	608	1194	DQ303918
+S55_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.26	100.0	807/807	contig00019	26922	27728	CP006832
+S55_contigs	blaOXA-486	Resistance	ampicillin	Unknown Beta-lactam	99.49	100.0	789/789	contig00013	112374	113162	AY597426
+S55_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.58	100.0	1194/1194	contig00019	41264	40071	FJ666073
+S55_contigs	catB3	Resistance	chloramphenicol	Chloramphenicol	100.0	67.14	425/633	contig00057	1988	1564	U13880
+S55_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	99.37	100.0	639/639	contig00009	53572	52934	AF036933
+S55_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	97.48	100.0	198/198	contig00015	3529	3726	HM560971
+S55_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.76	100.0	408/408	contig00002	161347	161754	ACWU01000146
+S58_contigs	ST207 (paeruginosa)	MLST									
+S58_contigs	Col(MG828)	Plasmid			95.0	99.24	260/262	contig00440	447	706	008486
+S58_contigs	Col(MG828)	Plasmid			93.51	100.0	262/262	contig00144	448	709	008486
+S58_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00041	3751	3621	KU674895
+S58_contigs	Col156	Plasmid			94.16	100.0	154/154	contig00035	5134	4981	009781
+S58_contigs	ColRNAI	Plasmid			90.44	88.46	115/130	contig00034	688	575	DQ298019
+S58_contigs	IncFIA(HI1)	Plasmid			97.16	100.0	388/388	contig00048	81	468	AF250878
+S58_contigs	IncFIB(pQil)	Plasmid			100.0	100.0	740/740	contig00103	1147	408	JN233705
+S58_contigs	IncFII(K)	Plasmid			98.65	100.0	148/148	contig00057	2272	2419	CP000648
+S58_contigs	IncP1	Plasmid			100.0	100.0	745/745	contig00112	1364	620	KX377410
+S58_contigs	ARR-3	Resistance	rifampicin	Rifampicin	100.0	100.0	453/453	contig00040	2455	2907	JF806499
+S58_contigs	aac(6')-Ib-cr	Resistance	amikacin, tobramycin, ciprofloxacin I/R	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin	99.83	100.0	600/600	contig00040	40	639	DQ303918
+S58_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.88	100.0	807/807	contig00010	24918	25724	CP006832
+S58_contigs	blaCTX-M-15	Resistance	ampicillin, ceftriaxone	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	100.0	100.0	876/876	contig00068	2128	1253	AY044436
+S58_contigs	blaOXA-1	Resistance	ampicillin	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	100.0	100.0	831/831	contig00040	770	1600	HQ170510
+S58_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	100.0	100.0	789/789	contig00022	19449	20237	AY306133
+S58_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.41	100.0	1194/1194	contig00010	39273	38080	AY083592
+S58_contigs	blaTEM-57	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	99.77	100.0	861/861	contig00149	1024	164	FJ405211
+S58_contigs	catB3	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	633/633	contig00040	1738	2370	U13880
+S58_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.12	100.0	639/639	contig00004	52861	52223	AF036933
+S58_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	94.44	100.0	198/198	contig00013	180349	180152	HM560971
+S58_contigs	erm(42)	Resistance	erythromycin, azithromycin	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	99.89	100.0	912/912	contig00056	1852	2763	AB601890
+S58_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.26	100.0	408/408	contig00004	493149	493556	ACWU01000146
+S58_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	98.93	831/840	contig00040	3471	4301	U12338
+S5_contigs	ST235 (paeruginosa)	MLST									
+S5_contigs	None	Plasmid									
+S5_contigs	aadA1	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	792/792	contig00055	936	145	JQ414041
+S5_contigs	aadA6	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	846/846	contig00063	1263	418	AF140629
+S5_contigs	ant(2'')-Ia	Resistance	gentamicin	Gentamicin, Tobramycin	100.0	100.0	534/534	contig00055	2407	1874	X04555
+S5_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00037	34375	33572	AF321551
+S5_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.76	100.0	807/807	contig00001	805842	805036	CP006832
+S5_contigs	aph(3')-VIa	Resistance	kanamycin	Kanamycin, Neomycin, Paromomycin, Ribostamycin, Butirosin, Gentamicin, Amikacin	98.46	100.0	780/780	contig00037	32331	31552	X07753
+S5_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	contig00037	33572	32736	M28829
+S5_contigs	blaIMP-1b	Resistance	unknown[blaIMP-1b_1_MK388919]	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	99.6	100.0	741/741	contig00055	1809	1069	MK388919
+S5_contigs	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	99.87	100.0	789/789	contig00012	162707	163495	CP017969
+S5_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.25	100.0	1194/1194	contig00001	791487	792680	AY083592
+S5_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.75	100.0	639/639	contig00027	52412	51774	AF036933
+S5_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.48	100.0	198/198	contig00036	3129	3326	HM560971
+S5_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00013	160736	161143	ACWU01000146
+S5_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00059	1152	313	U12338
+S61_contigs	ST773 (paeruginosa)	MLST									
+S61_contigs	None	Plasmid									
+S61_contigs	aadA11	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	96.22	814/846	contig00023	2717	1904	AY144590
+S61_contigs	aph(3')-IIb	Resistance	kanamycin	Kanamycin, Neomycin, Paromomycin, Ribostamycin, Butiromycin, Gentamicin	99.88	100.0	807/807	contig00003	102377	103183	X90856
+S61_contigs	blaNDM-1	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone, meropenem	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ceftazidime+Avibactam, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Temocillin	100.0	100.0	813/813	contig00063	1169	357	FN396876
+S61_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	99.87	100.0	789/789	contig00013	162068	162856	AY306133
+S61_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00003	116719	115526	AY083592
+S61_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.59	100.0	639/639	contig00025	52448	51810	AF036933
+S61_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.76	100.0	408/408	contig00004	153171	153578	ACWU01000146
+S61_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00023	4052	3396	EU436855
+S61_contigs	rmtB	Resistance	amikacin, gentamicin, kanamycin, streptomycin	Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin	99.07	100.0	756/756	contig00034	4821	5576	AB103506
+S61_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00078	60	899	U12338
+S61_contigs	tet(G)	Resistance	tetracycline	Doxycycline, Tetracycline	100.0	100.0	1176/1176	contig00038	2842	4017	AF133140
+S62_contigs	ST- (paeruginosa)	MLST									
+S62_contigs	None	Plasmid									
+S62_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.88	100.0	807/807	contig00013	50699	51505	CP006832
+S62_contigs	blaOXA-494	Resistance	ampicillin	Unknown Beta-lactam	99.62	100.0	789/789	contig00011	99804	99016	AY597430
+S62_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.83	100.0	1194/1194	contig00013	65054	63861	AY083595
+S62_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	639/639	contig00008	52919	52281	AF036933
+S62_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.99	100.0	198/198	contig00030	3611	3808	HM560971
+S62_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00003	268042	267635	ACWU01000146
+S63_contigs	ST- (paeruginosa)	MLST									
+S63_contigs	None	Plasmid									
+S63_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.38	100.0	807/807	contig00009	147367	148173	CP006832
+S63_contigs	blaOXA-494	Resistance	ampicillin	Unknown Beta-lactam	99.75	100.0	789/789	contig00007	177865	177077	AY597430
+S63_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.16	100.0	1194/1194	contig00009	161722	160529	FJ666073
+S63_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	97.81	100.0	639/639	contig00001	770318	770956	AF036933
+S63_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.99	100.0	198/198	contig00015	121888	121691	HM560971
+S63_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00001	340583	340176	ACWU01000146
+S68_contigs	ST- (paeruginosa)	MLST									
+S68_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00912	2113	1983	KU674895
+S68_contigs	Col156	Plasmid			98.59	92.21	142/154	contig00329	6870	6729	009781
+S68_contigs	ColKP3	Plasmid			100.0	81.79	229/280	contig00615	2620	2848	JN205800
+S68_contigs	IncFIA	Plasmid			100.0	100.0	388/388	contig00710	1292	1679	AP001918
+S68_contigs	IncFIB(AP001918)	Plasmid			96.63	100.0	682/682	contig00653	4119	4800	AP001918
+S68_contigs	IncFIB(pB171)	Plasmid			99.22	100.0	643/643	contig00274	1843	1201	AB024946
+S68_contigs	IncFIB(pKPHS1)	Plasmid			95.54	100.0	560/560	contig00092	25799	26358	CP003223
+S68_contigs	IncFIB(pNDM-Mar)	Plasmid			99.54	100.0	439/439	contig00041	1892	2330	JN420336
+S68_contigs	IncFII	Plasmid			100.0	100.0	261/261	contig00243	1687	1427	AY458016
+S68_contigs	IncHI1B(pNDM-MAR)	Plasmid			99.47	100.0	570/570	contig00203	3233	3802	JN420336
+S68_contigs	IncI(Gamma)	Plasmid			100.0	97.16	137/141	contig01309	1386	1250	AP011954
+S68_contigs	IncM2	Plasmid			100.0	76.96	511/664	contig00084	511	1	AF550415
+S68_contigs	IncQ2	Plasmid			98.89	100.0	450/450	contig00203	16707	16258	FJ696404
+S68_contigs	IncR	Plasmid			100.0	100.0	251/251	contig00438	5335	5585	DQ449578
+S68_contigs	OqxA	Resistance	unknown[OqxA_1_EU370913]	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	99.49	100.0	1176/1176	contig00075	3942	5117	EU370913
+S68_contigs	OqxB	Resistance	unknown[OqxB_1_EU370913]	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	98.54	100.0	3153/3153	contig00075	5141	8293	EU370913
+S68_contigs	aac(6')-Ic	Resistance	amikacin, tobramycin	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin	95.92	100.0	441/441	contig00264	3136	3576	M94066
+S68_contigs	aadA11	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	96.22	814/846	contig00358	9506	10319	AY144590
+S68_contigs	aadA2	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	792/792	contig01606	935	144	JQ364967
+S68_contigs	aadA5	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	789/789	contig01493	714	1502	AF137361
+S68_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00678	4297	3494	AF321551
+S68_contigs	aph(3')-IIb	Resistance	kanamycin	Kanamycin, Neomycin, Paromomycin, Ribostamycin, Butiromycin, Gentamicin	99.88	100.0	807/807	contig00014	102377	103183	X90856
+S68_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	831/831	contig00678	3488	2658	CP000971
+S68_contigs	armA	Resistance	amikacin, gentamicin, kanamycin, streptomycin	Amikacin, Gentamicin, Tobramycin, Isepamicin, Netilmicin	100.0	100.0	774/774	contig00347	7299	6526	AY220558
+S68_contigs	blaCMY-145	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	100.0	100.0	1146/1146	contig01091	3225	2080	KX470426
+S68_contigs	blaCTX-M-15	Resistance	ampicillin, ceftriaxone	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	100.0	100.0	876/876	contig00084	51551	50676	AY044436
+S68_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	99.87	100.0	789/789	contig00012	112361	113149	AY306133
+S68_contigs	blaOXA-484	Resistance	ampicillin	Unknown Beta-lactam	99.88	100.0	798/798	contig00615	220	1017	KR401105
+S68_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	contig00014	116719	115526	AY083592
+S68_contigs	blaSHV-67	Resistance	ampicillin	Unknown Beta-lactam	99.77	100.0	861/861	contig00239	14855	15715	DQ174307
+S68_contigs	blaSRT-2	Resistance	ampicilin, ceftriaxone	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	97.99	100.79	1146/1137	contig00418	4719	3574	AY524276
+S68_contigs	blaTEM-1B	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig01085	3095	2235	AY458016
+S68_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	98.59	100.0	639/639	contig00071	9515	10153	AF036933
+S68_contigs	dfrA12	Resistance	trimethoprim	Trimethoprim	99.71	69.08	344/498	contig01606	1686	1343	AM040708
+S68_contigs	dfrA17	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig01493	110	583	FJ460238
+S68_contigs	fosA	Resistance	fosfomycin	Fosfomycin	98.79	98.33	413/420	contig00042	81402	80990	AFBO01000747
+S68_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.76	100.0	408/408	contig00003	280134	279727	ACWU01000146
+S68_contigs	mph(A)	Resistance	erythromycin, azithromycin	Erythromycin, Azithromycin, Spiramycin, Telithromycin	99.45	98.7	909/921	contig01096	3261	2353	U36578
+S68_contigs	mph(E)	Resistance	erythromycin, azithromycin	Erythromycin	99.89	100.0	885/885	contig00347	2696	1812	DQ839391
+S68_contigs	msr(E)	Resistance	erythromycin, azithromycin	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	100.0	100.0	1476/1476	contig00347	4227	2752	FR751518
+S68_contigs	qnrS1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig01198	1496	840	AB187515
+S68_contigs	qnrS2	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00203	18995	18339	DQ485530
+S68_contigs	qnrVC1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00358	8171	8827	EU436855
+S68_contigs	rmtB	Resistance	amikacin, gentamicin, kanamycin, streptomycin	Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin	99.07	100.0	756/756	contig00507	2855	2100	AB103506
+S68_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig02056	60	899	U12338
+S68_contigs	sul2	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	816/816	contig00678	5173	4358	AY034138
+S68_contigs	tet(A)	Resistance	tetracycline	Doxycycline, Tetracycline	100.0	100.0	1200/1200	contig00678	1604	405	AJ517790
+S68_contigs	tet(B)	Resistance	tetracycline	Doxycycline, Tetracycline, Minocycline	100.0	100.0	1206/1206	contig00647	2450	1245	AF326777
+S68_contigs	tet(G)	Resistance	tetracycline	Doxycycline, Tetracycline	100.0	100.0	1176/1176	contig00744	2842	4017	AF133140
+S69_contigs	ST480 (paeruginosa)	MLST									
+S69_contigs	Col(pHAD28)	Plasmid			92.37	100.0	131/131	contig00587	3553	3683	KU674895
+S69_contigs	Col156	Plasmid			98.59	92.21	142/154	contig01054	319	460	009781
+S69_contigs	ColKP3	Plasmid			100.0	81.79	229/280	contig00670	310	82	JN205800
+S69_contigs	IncFIA	Plasmid			100.0	100.0	388/388	contig00389	7536	7149	AP001918
+S69_contigs	IncFIB(AP001918)	Plasmid			96.63	100.0	682/682	contig00510	1547	866	AP001918
+S69_contigs	IncFIB(pB171)	Plasmid			99.22	100.0	643/643	contig00174	15378	16020	AB024946
+S69_contigs	IncFIB(pKPHS1)	Plasmid			95.54	100.0	560/560	contig00052	22178	21619	CP003223
+S69_contigs	IncFIB(pNDM-Mar)	Plasmid			99.54	100.0	439/439	contig00021	1892	2330	JN420336
+S69_contigs	IncFII	Plasmid			100.0	100.0	261/261	contig00067	4799	5059	AY458016
+S69_contigs	IncHI1B(pNDM-MAR)	Plasmid			99.47	100.0	570/570	contig00373	6753	6184	JN420336
+S69_contigs	IncI(Gamma)	Plasmid			100.0	97.16	137/141	contig00571	1992	1856	AP011954
+S69_contigs	IncQ2	Plasmid			98.89	100.0	450/450	contig00381	6814	6365	FJ696404
+S69_contigs	IncR	Plasmid			100.0	100.0	251/251	contig00406	3531	3281	DQ449578
+S69_contigs	OqxA	Resistance	unknown[OqxA_1_EU370913]	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	99.49	100.0	1176/1176	contig00200	3942	5117	EU370913
+S69_contigs	OqxB	Resistance	unknown[OqxB_1_EU370913]	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	98.54	100.0	3153/3153	contig00200	5141	8293	EU370913
+S69_contigs	aadA5	Resistance	streptomycin	Spectinomycin, Streptomycin	100.0	100.0	789/789	contig00544	1483	2271	AF137361
+S69_contigs	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	100.0	804/804	contig00722	806	3	AF321551
+S69_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.01	100.0	807/807	contig00012	107542	106736	CP006832
+S69_contigs	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	91.58	761/831	contig01022	761	1	CP000971
+S69_contigs	armA	Resistance	amikacin, gentamicin, kanamycin, streptomycin	Amikacin, Gentamicin, Tobramycin, Isepamicin, Netilmicin	100.0	71.83	556/774	contig00945	1004	449	AY220558
+S69_contigs	blaCMY-145	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	100.0	100.0	1146/1146	contig00101	19182	18037	KX470426
+S69_contigs	blaCTX-M-15	Resistance	ampicillin, ceftriaxone	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	100.0	100.0	876/876	contig00357	227	1102	AY044436
+S69_contigs	blaOXA-395	Resistance	ampicillin	Amoxicillin, Ampicillin, Meropenem	99.37	100.0	789/789	contig00005	360968	360180	AY306133
+S69_contigs	blaOXA-484	Resistance	ampicillin	Unknown Beta-lactam	99.88	100.0	798/798	contig00670	2710	1913	KR401105
+S69_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.66	100.0	1194/1194	contig00012	93200	94393	FJ666073
+S69_contigs	blaSHV-67	Resistance	ampicillin	Unknown Beta-lactam	99.77	100.0	861/861	contig00055	16028	15168	DQ174307
+S69_contigs	blaTEM-1B	Resistance	ampicillin	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	100.0	100.0	861/861	contig00424	3060	2200	AY458016
+S69_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	99.53	100.0	639/639	contig00033	52910	52272	AF036933
+S69_contigs	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.99	100.0	198/198	contig00075	3611	3808	HM560971
+S69_contigs	dfrA17	Resistance	trimethoprim	Trimethoprim	100.0	100.0	474/474	contig00544	879	1352	FJ460238
+S69_contigs	fosA	Resistance	fosfomycin	Fosfomycin	98.79	98.33	413/420	contig00121	15894	15482	AFBO01000747
+S69_contigs	fosA	Resistance	fosfomycin	Fosfomycin	98.78	100.0	408/408	contig00015	26313	25906	ACWU01000146
+S69_contigs	mph(A)	Resistance	erythromycin, azithromycin	Erythromycin, Azithromycin, Spiramycin, Telithromycin	99.45	98.7	909/921	contig00424	8092	7184	U36578
+S69_contigs	qnrS1	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00357	5743	6399	AB187515
+S69_contigs	qnrS2	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00381	9102	8446	DQ485530
+S69_contigs	rmtB	Resistance	amikacin, gentamicin, kanamycin, streptomycin	Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin	100.0	100.0	756/756	contig00424	2030	1275	AB103506
+S69_contigs	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	840/840	contig00544	2818	3657	U12338
+S69_contigs	sul2	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	816/816	contig00722	1682	867	AY034138
+S69_contigs	tet(B)	Resistance	tetracycline	Doxycycline, Tetracycline, Minocycline	100.0	100.0	1206/1206	contig00470	4159	5364	AF326777
+S9_contigs	ST- (paeruginosa)	MLST									
+S9_contigs	IncQ2	Plasmid			98.89	100.0	450/450	contig00053	333	782	FJ696404
+S9_contigs	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.88	100.0	807/807	contig00018	27060	27866	CP006832
+S9_contigs	blaOXA-494	Resistance	ampicillin	Unknown Beta-lactam	99.62	100.0	789/789	contig00009	99653	98865	AY597430
+S9_contigs	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.83	100.0	1194/1194	contig00018	41415	40222	AY083595
+S9_contigs	catB7	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	639/639	contig00014	53191	52553	AF036933
+S9_contigs	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	contig00002	336711	336304	ACWU01000146
+S9_contigs	qnrS2	Resistance	ciprofloxacin I/R	Ciprofloxacin	100.0	100.0	657/657	contig00041	4524	5180	DQ485530

@@ -1,0 +1,40 @@
+Isolate ID	Data	Data Type	Predicted Phenotype	CGE Predicted Phenotype	%Identity	%Overlap	HSP Length/Total Length	Contig	Start	End	Accession
+DK2_genome.fna	ST386 (paeruginosa)	MLST									
+DK2_genome.fna	None	Plasmid									
+DK2_genome.fna	blaOXA-494	Resistance	ampicillin	Unknown Beta-lactam	99.62	100.0	789/789	ref|NC_018080.1|	6344318	6345106	AY597430
+DK2_genome.fna	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	ref|NC_018080.1|	818442	817252	FJ666073
+DK2_genome.fna	catB7	Resistance	chloramphenicol	Chloramphenicol	99.53	100.0	639/639	ref|NC_018080.1|	4743571	4744209	AF036933
+DK2_genome.fna	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	95.96	100.0	198/198	ref|NC_018080.1|	5114585	5114782	HM560971
+DK2_genome.fna	fosA	Resistance	fosfomycin	Fosfomycin	99.02	100.0	408/408	ref|NC_018080.1|	4320316	4319909	ACWU01000146
+LESB5_genome.fna	ST146 (paeruginosa)	MLST									
+LESB5_genome.fna	None	Plasmid									
+LESB5_genome.fna	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	98.88	100.0	807/807	emb|FM209186.1|	926872	927675	CP006832
+LESB5_genome.fna	blaOXA-50	Resistance	ampicillin	Amoxicillin, Ampicillin	99.87	100.0	789/789	emb|FM209186.1|	6543373	6544161	AY306130
+LESB5_genome.fna	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.75	100.0	1194/1194	emb|FM209186.1|	941224	940031	AY083592
+LESB5_genome.fna	catB7	Resistance	chloramphenicol	Chloramphenicol	96.56	100.0	639/639	emb|FM209186.1|	5075462	5076082	AF036933
+LESB5_genome.fna	fosA	Resistance	fosfomycin	Fosfomycin	99.76	100.0	408/408	emb|FM209186.1|	4625654	4625247	ACWU01000146
+PA14_genome.fasta	ST253 (paeruginosa)	MLST									
+PA14_genome.fasta	None	Plasmid									
+PA14_genome.fasta	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	99.13	100.0	807/807	ref|NC_008463.1|	919472	920275	CP006832
+PA14_genome.fasta	blaOXA-488	Resistance	ampicillin	Unknown Beta-lactam	100.0	100.0	789/789	ref|NC_008463.1|	6480480	6481268	CP017969
+PA14_genome.fasta	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	99.33	100.0	1194/1194	ref|NC_008463.1|	933824	932631	AY083592
+PA14_genome.fasta	catB7	Resistance	chloramphenicol	Chloramphenicol	98.28	100.0	639/639	ref|NC_008463.1|	4900296	4900934	AF036933
+PA14_genome.fasta	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.48	100.0	198/198	ref|NC_008463.1|	5267285	5267482	HM560971
+PA14_genome.fasta	fosA	Resistance	fosfomycin	Fosfomycin	99.51	100.0	408/408	ref|NC_008463.1|	4428240	4427833	ACWU01000146
+PA7_genome.fna	ST1195 (paeruginosa)	MLST									
+PA7_genome.fna	None	Plasmid									
+PA7_genome.fna	aac(6')-Ib-Hangzhou	Resistance	gentamicin	Amikacin, Tobramycin	99.81	100.0	519/519	gb|CP000744.1|	3861333	3860815	FJ503047
+PA7_genome.fna	aph(3'')-Ib	Resistance	streptomycin	Streptomycin	100.0	99.88	803/804	gb|CP000744.1|	5503090	5503892	AF024602
+PA7_genome.fna	aph(3')-IIa	Resistance	kanamycin	Kanamycin, Neomycin	100.0	100.0	795/795	gb|CP000744.1|	3858355	3857561	V00618
+PA7_genome.fna	aph(6)-Ic	Resistance	streptomycin	Streptomycin	100.0	100.0	801/801	gb|CP000744.1|	3857121	3856321	X01702
+PA7_genome.fna	aph(6)-Id	Resistance	kanamycin	Streptomycin	100.0	100.0	837/837	gb|CP000744.1|	5503892	5504728	M28829
+PA7_genome.fna	cmx	Resistance	chloramphenicol	Chloramphenicol	99.92	100.0	1176/1176	gb|CP000744.1|	3872405	3871230	U85507
+PA7_genome.fna	crpP	Resistance	ciprofloxacin I/R	Ciprofloxacin	98.48	100.0	198/198	gb|CP000744.1|	4594508	4594705	HM560971
+PA7_genome.fna	sul1	Resistance	sulfisoxazole	Sulfamethoxazole	100.0	100.0	852/852	gb|CP000744.1|	5509786	5508935	AY963803
+PAO1_genome.fasta	ST- (paeruginosa)	MLST									
+PAO1_genome.fasta	None	Plasmid									
+PAO1_genome.fasta	aph(3')-IIb	Resistance	kanamycin	Unknown Aminoglycoside	100.0	100.0	807/807	ref|NC_002516.2|	4608384	4607578	CP006832
+PAO1_genome.fasta	blaOXA-50	Resistance	ampicillin	Amoxicillin, Ampicillin	99.87	100.0	789/789	ref|NC_002516.2|	6207241	6208029	AY306130
+PAO1_genome.fasta	blaPAO	Resistance	ampicillin, amoxicillin/clavulanic acid, cefoxitin, ceftriaxone	Amoxicillin, Ampicillin, Cefepime, Ceftazidime	100.0	100.0	1194/1194	ref|NC_002516.2|	4594029	4595222	FJ666065
+PAO1_genome.fasta	catB7	Resistance	chloramphenicol	Chloramphenicol	100.0	100.0	639/639	ref|NC_002516.2|	780101	779463	AF036933
+PAO1_genome.fasta	fosA	Resistance	fosfomycin	Fosfomycin	99.51	100.0	408/408	ref|NC_002516.2|	1221691	1222098	ACWU01000146
